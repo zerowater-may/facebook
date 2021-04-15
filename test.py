@@ -19,9 +19,9 @@ class FaceBook:
 
 
 if '__main__' == __name__:
-    fb = FaceBook()
-    folderPath = os.path.dirname(os.path.realpath(__file__))
-    print(folderPath)
+    # fb = FaceBook()
+    # folderPath = os.path.dirname(os.path.realpath(__file__))
+    # print(folderPath)
 
 
     
