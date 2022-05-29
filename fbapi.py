@@ -38,15 +38,8 @@ def convert_seconds_to_kor_time(in_seconds):
     if seconds >= 1:
         result.append(str(seconds)+'초')
     return ' '.join(result)
-# fbid = 'rnfqhr2@gmail.com'
-# fbid = 'kys980531@naver.com'
-# fbpw = 'fkaustkfl123!'
 
-# fbid = 'cassandraatkins4512@gmail.com'
-# fbpw = 'a12341234aa'
 
-fbid = 'norahbailey1183@gmail.com'
-fbpw = 'a12341234aa'
 
 
 
